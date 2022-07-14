@@ -1,0 +1,26 @@
+_repo: A-concise-account-of-the-principal-works-in-stained-glass-that-have-been-executed-by-Thomas-W__68515
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Willement, Thomas
+    gutenberg_agent_id: '54810'
+    url: http://www.gutenberg.org/2009/agents/54810
+description: ''
+gutenberg_issued: '2022-07-12'
+identifiers:
+  gutenberg: '68515'
+language: en
+pgterms:marc905: 20210731133214willement
+pgterms:marc906: '1840'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Thomas Willement,1840.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A concise account of the principal works in stained glass that have been executed
+  by Thomas Willement of London, Fellow of the Society of Antiquaries
+url: http://www.gutenberg.org/ebooks/68515
